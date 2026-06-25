@@ -1,8 +1,8 @@
 class ObsidianPreferenceSync < Formula
   desc "Synchronize selected Obsidian plugins, plugin settings, and app settings"
   homepage "https://github.com/tyPhoon-collab/obsidian-preference-sync"
-  url "https://github.com/tyPhoon-collab/obsidian-preference-sync/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "46414e76f6aaebaf267876997fdc936f213e70f3565ac14251e15f94f3439cbb"
+  url "https://github.com/tyPhoon-collab/obsidian-preference-sync/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "1897e70a748b15740e3cc102ecbac83b57bd3b79084acdc398039a38d9bc4dbd"
   license "MIT"
 
   depends_on "go" => :build
